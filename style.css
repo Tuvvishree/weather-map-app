@@ -1,0 +1,32 @@
+#wrapper{
+    border:3px solid red;
+    width:300px;
+    position:fixed;
+    bottom:100px;
+    z-index:1000;
+    background-color: gold;
+
+        }
+#name{
+    color:blue;
+}
+#country{
+    color:chocolate
+}
+#temp{
+    color:darkslateblue;
+}
+#number1,#number2{
+    padding:5px;
+    border-radius:5px;
+}
+#result,#btn_add{
+    border:5px solid red;
+    width:100px;
+    height:50px;
+}
+#btn_add:hover{
+    background-color: aqua;
+    color:red;
+}
+#map { height: 100vh; }
